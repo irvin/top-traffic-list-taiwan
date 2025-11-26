@@ -24,7 +24,7 @@ const https = require('https');
 const fs = require('fs');
 const AdmZip = require('adm-zip');
 
-const TRANCO_URL = 'https://tranco-list.eu/top-1m.csv.zip';
+const TRANCO_URL = 'https://tranco-list.eu/top-1m-incl-subdomains.csv.zip';
 const OUTPUT_FILE = 'tranco_list_tw.json';
 
 // 設定 HTTPS agent 來處理某些環境下的 SSL 證書問題
