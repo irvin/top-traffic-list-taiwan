@@ -1,0 +1,21 @@
+{
+  "name": "top-traffic-list-taiwan",
+  "version": "1.0.0",
+  "description": "從 Tranco List 抓取台灣 .tw 網站流量排名清單",
+  "main": "fetch-tranco.js",
+  "scripts": {
+    "start": "node fetch-tranco.js",
+    "fetch": "node fetch-tranco.js"
+  },
+  "keywords": [
+    "tranco",
+    "taiwan",
+    "traffic",
+    "ranking"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.10"
+  }
+}
