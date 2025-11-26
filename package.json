@@ -1,21 +1,15 @@
 {
   "name": "top-traffic-list-taiwan",
   "version": "1.0.0",
-  "description": "從 Tranco List 抓取台灣 .tw 網站流量排名清單",
-  "main": "fetch-tranco.js",
+  "description": "從多個來源抓取台灣網站流量排名清單",
   "scripts": {
-    "start": "node fetch-tranco.js",
-    "fetch": "node fetch-tranco.js"
+    "tranco": "node fetch-tranco.js",
+    "cloudflare": "node fetch-cloudflare.js"
   },
-  "keywords": [
-    "tranco",
-    "taiwan",
-    "traffic",
-    "ranking"
-  ],
-  "author": "",
+  "author": "Irvin Chen",
   "license": "MIT",
   "dependencies": {
-    "adm-zip": "^0.5.10"
+    "adm-zip": "^0.5.10",
+    "dotenv": "^17.2.3"
   }
 }
