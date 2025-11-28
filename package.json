@@ -4,7 +4,8 @@
   "description": "從多個來源抓取台灣網站流量排名清單",
   "scripts": {
     "tranco": "node fetch-tranco.js",
-    "cloudflare": "node fetch-cloudflare.js"
+    "cloudflare": "node fetch-cloudflare.js",
+    "ahrefs": "node fetch-ahrefs.js"
   },
   "author": "Irvin Chen",
   "license": "MIT",

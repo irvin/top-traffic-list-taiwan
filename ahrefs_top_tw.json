@@ -1,0 +1,602 @@
+[
+  {
+    "rank": 1,
+    "website": "wikipedia.org",
+    "category": "Reference",
+    "search_traffic_K": 80400
+  },
+  {
+    "rank": 2,
+    "website": "yahoo.com",
+    "category": "News",
+    "search_traffic_K": 50300
+  },
+  {
+    "rank": 3,
+    "website": "facebook.com",
+    "category": "Online Communities",
+    "search_traffic_K": 36800
+  },
+  {
+    "rank": 4,
+    "website": "youtube.com",
+    "category": "Entertainment",
+    "search_traffic_K": 27000
+  },
+  {
+    "rank": 5,
+    "website": "instagram.com",
+    "category": "Online Communities",
+    "search_traffic_K": 12200
+  },
+  {
+    "rank": 6,
+    "website": "shopee.tw",
+    "category": "Shopping",
+    "search_traffic_K": 11000
+  },
+  {
+    "rank": 7,
+    "website": "cwa.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 9600
+  },
+  {
+    "rank": 8,
+    "website": "apple.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 8600
+  },
+  {
+    "rank": 9,
+    "website": "chatgpt.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 8200
+  },
+  {
+    "rank": 10,
+    "website": "momoshop.com.tw",
+    "category": "Shopping",
+    "search_traffic_K": 7700
+  },
+  {
+    "rank": 11,
+    "website": "google.com",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 6000
+  },
+  {
+    "rank": 12,
+    "website": "pchome.com.tw",
+    "category": "Shopping",
+    "search_traffic_K": 5800
+  },
+  {
+    "rank": 13,
+    "website": "104.com.tw",
+    "category": "Jobs & Education",
+    "search_traffic_K": 5600
+  },
+  {
+    "rank": 14,
+    "website": "udn.com",
+    "category": "News",
+    "search_traffic_K": 5400
+  },
+  {
+    "rank": 15,
+    "website": "gimy.ai",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 5400
+  },
+  {
+    "rank": 16,
+    "website": "wantgoo.com",
+    "category": "Shopping",
+    "search_traffic_K": 5300
+  },
+  {
+    "rank": 17,
+    "website": "inline.app",
+    "category": "Business & Industrial",
+    "search_traffic_K": 4600
+  },
+  {
+    "rank": 18,
+    "website": "591.com.tw",
+    "category": "Entertainment",
+    "search_traffic_K": 4400
+  },
+  {
+    "rank": 19,
+    "website": "pixnet.net",
+    "category": "Entertainment",
+    "search_traffic_K": 4200
+  },
+  {
+    "rank": 20,
+    "website": "nat.gov.tw",
+    "category": "People & Society",
+    "search_traffic_K": 3900
+  },
+  {
+    "rank": 21,
+    "website": "tvbs.com.tw",
+    "category": "News",
+    "search_traffic_K": 3700
+  },
+  {
+    "rank": 22,
+    "website": "ptt.cc",
+    "category": null,
+    "search_traffic_K": 3500
+  },
+  {
+    "rank": 23,
+    "website": "dgpa.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 3400
+  },
+  {
+    "rank": 24,
+    "website": "dcard.tw",
+    "category": "Online Communities",
+    "search_traffic_K": 3400
+  },
+  {
+    "rank": 25,
+    "website": "microsoft.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 3300
+  },
+  {
+    "rank": 26,
+    "website": "cnyes.com",
+    "category": "Finance",
+    "search_traffic_K": 3000
+  },
+  {
+    "rank": 27,
+    "website": "ltn.com.tw",
+    "category": "Business & Industrial",
+    "search_traffic_K": 3000
+  },
+  {
+    "rank": 28,
+    "website": "commonhealth.com.tw",
+    "category": "Health",
+    "search_traffic_K": 3000
+  },
+  {
+    "rank": 29,
+    "website": "ettoday.net",
+    "category": "News",
+    "search_traffic_K": 3000
+  },
+  {
+    "rank": 30,
+    "website": "google.com.tw",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 3000
+  },
+  {
+    "rank": 31,
+    "website": "moe.edu.tw",
+    "category": "Jobs & Education",
+    "search_traffic_K": 3000
+  },
+  {
+    "rank": 32,
+    "website": "cookpad.com",
+    "category": "Food & Drink",
+    "search_traffic_K": 2800
+  },
+  {
+    "rank": 33,
+    "website": "costco.com.tw",
+    "category": "Shopping",
+    "search_traffic_K": 2700
+  },
+  {
+    "rank": 34,
+    "website": "bot.com.tw",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 2700
+  },
+  {
+    "rank": 35,
+    "website": "gamer.com.tw",
+    "category": "Games",
+    "search_traffic_K": 2700
+  },
+  {
+    "rank": 36,
+    "website": "line.me",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 2700
+  },
+  {
+    "rank": 37,
+    "website": "canva.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 2600
+  },
+  {
+    "rank": 38,
+    "website": "threads.com",
+    "category": "Online Communities",
+    "search_traffic_K": 2600
+  },
+  {
+    "rank": 39,
+    "website": "elle.com",
+    "category": "Entertainment",
+    "search_traffic_K": 2500
+  },
+  {
+    "rank": 40,
+    "website": "cambridge.org",
+    "category": "Jobs & Education",
+    "search_traffic_K": 2500
+  },
+  {
+    "rank": 41,
+    "website": "cmoney.tw",
+    "category": "Finance",
+    "search_traffic_K": 2400
+  },
+  {
+    "rank": 42,
+    "website": "baidu.com",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 2300
+  },
+  {
+    "rank": 43,
+    "website": "mohw.gov.tw",
+    "category": "Health",
+    "search_traffic_K": 2300
+  },
+  {
+    "rank": 44,
+    "website": "bobbyfun.tw",
+    "category": "Games",
+    "search_traffic_K": 2300
+  },
+  {
+    "rank": 45,
+    "website": "vocus.cc",
+    "category": "Business & Industrial",
+    "search_traffic_K": 2200
+  },
+  {
+    "rank": 46,
+    "website": "books.com.tw",
+    "category": "Books & Literature",
+    "search_traffic_K": 2000
+  },
+  {
+    "rank": 47,
+    "website": "icook.tw",
+    "category": "Food & Drink",
+    "search_traffic_K": 2000
+  },
+  {
+    "rank": 48,
+    "website": "cpbl.com.tw",
+    "category": "Sports",
+    "search_traffic_K": 2000
+  },
+  {
+    "rank": 49,
+    "website": "railway.gov.tw",
+    "category": "Travel",
+    "search_traffic_K": 2000
+  },
+  {
+    "rank": 50,
+    "website": "klook.com",
+    "category": "Travel",
+    "search_traffic_K": 2000
+  },
+  {
+    "rank": 51,
+    "website": "welcometw.com",
+    "category": "People & Society",
+    "search_traffic_K": 2000
+  },
+  {
+    "rank": 52,
+    "website": "gov.taipei",
+    "category": "Law & Government",
+    "search_traffic_K": 1900
+  },
+  {
+    "rank": 53,
+    "website": "8891.com.tw",
+    "category": null,
+    "search_traffic_K": 1800
+  },
+  {
+    "rank": 54,
+    "website": "7-11.com.tw",
+    "category": "Shopping",
+    "search_traffic_K": 1800
+  },
+  {
+    "rank": 55,
+    "website": "yahoo.com.tw",
+    "category": "News",
+    "search_traffic_K": 1800
+  },
+  {
+    "rank": 56,
+    "website": "liontravel.com",
+    "category": "Travel",
+    "search_traffic_K": 1800
+  },
+  {
+    "rank": 57,
+    "website": "leju.com.tw",
+    "category": "Real Estate",
+    "search_traffic_K": 1700
+  },
+  {
+    "rank": 58,
+    "website": "businessweekly.com.tw",
+    "category": "Business & Industrial",
+    "search_traffic_K": 1600
+  },
+  {
+    "rank": 59,
+    "website": "ikea.com.tw",
+    "category": "Home & Garden",
+    "search_traffic_K": 1600
+  },
+  {
+    "rank": 60,
+    "website": "pilio.idv.tw",
+    "category": null,
+    "search_traffic_K": 1600
+  },
+  {
+    "rank": 61,
+    "website": "netflix.com",
+    "category": "Entertainment",
+    "search_traffic_K": 1600
+  },
+  {
+    "rank": 62,
+    "website": "ilovepdf.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 1500
+  },
+  {
+    "rank": 63,
+    "website": "taishinbank.com.tw",
+    "category": "Finance",
+    "search_traffic_K": 1500
+  },
+  {
+    "rank": 64,
+    "website": "1111.com.tw",
+    "category": null,
+    "search_traffic_K": 1500
+  },
+  {
+    "rank": 65,
+    "website": "ctbcbank.com",
+    "category": "Finance",
+    "search_traffic_K": 1500
+  },
+  {
+    "rank": 66,
+    "website": "parenting.com.tw",
+    "category": "People & Society",
+    "search_traffic_K": 1400
+  },
+  {
+    "rank": 67,
+    "website": "mobile01.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 1400
+  },
+  {
+    "rank": 68,
+    "website": "mcdonalds.com",
+    "category": "Food & Drink",
+    "search_traffic_K": 1400
+  },
+  {
+    "rank": 69,
+    "website": "x.com",
+    "category": null,
+    "search_traffic_K": 1400
+  },
+  {
+    "rank": 70,
+    "website": "esunbank.com",
+    "category": "Finance",
+    "search_traffic_K": 1400
+  },
+  {
+    "rank": 71,
+    "website": "baidu.hk",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 1400
+  },
+  {
+    "rank": 72,
+    "website": "steampowered.com",
+    "category": "Games",
+    "search_traffic_K": 1300
+  },
+  {
+    "rank": 73,
+    "website": "vogue.com.tw",
+    "category": "Entertainment",
+    "search_traffic_K": 1300
+  },
+  {
+    "rank": 74,
+    "website": "cna.com.tw",
+    "category": "News",
+    "search_traffic_K": 1300
+  },
+  {
+    "rank": 75,
+    "website": "taiwanmobile.com",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 1300
+  },
+  {
+    "rank": 76,
+    "website": "gltjp.com",
+    "category": null,
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 77,
+    "website": "msn.com",
+    "category": "News",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 78,
+    "website": "moneydj.com",
+    "category": "Finance",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 79,
+    "website": "storm.mg",
+    "category": "Science",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 80,
+    "website": "tixcraft.com",
+    "category": "Entertainment",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 81,
+    "website": "kkday.com",
+    "category": "Travel",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 82,
+    "website": "harpersbazaar.com",
+    "category": "Entertainment",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 83,
+    "website": "womenshealthmag.com",
+    "category": "Health",
+    "search_traffic_K": 1200
+  },
+  {
+    "rank": 84,
+    "website": "moj.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 85,
+    "website": "cw.com.tw",
+    "category": "Shopping",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 86,
+    "website": "bli.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 87,
+    "website": "post.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 88,
+    "website": "16personalities.com",
+    "category": "People & Society",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 89,
+    "website": "adobe.com",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 90,
+    "website": "cht.com.tw",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 91,
+    "website": "money101.com.tw",
+    "category": "Finance",
+    "search_traffic_K": 1100
+  },
+  {
+    "rank": 92,
+    "website": "uho.com.tw",
+    "category": "Business & Industrial",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 93,
+    "website": "helloyishi.com.tw",
+    "category": "Entertainment",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 94,
+    "website": "ctee.com.tw",
+    "category": "Computers & Electronics",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 95,
+    "website": "vscinemas.com.tw",
+    "category": "Entertainment",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 96,
+    "website": "moi.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 97,
+    "website": "kcg.gov.tw",
+    "category": "Law & Government",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 98,
+    "website": "sinopac.com",
+    "category": "Finance",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 99,
+    "website": "op.gg",
+    "category": "Games",
+    "search_traffic_K": 1000
+  },
+  {
+    "rank": 100,
+    "website": "piliapp.com",
+    "category": "Internet & Telecom",
+    "search_traffic_K": 1000
+  }
+]
