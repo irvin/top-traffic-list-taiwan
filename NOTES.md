@@ -1,0 +1,1 @@
+- 如果一個網站只有 cloudflare radar rank，那他可能是 App 或 API 等類型的 domain。
